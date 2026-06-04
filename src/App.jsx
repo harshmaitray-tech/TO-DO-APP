@@ -131,7 +131,7 @@ function App() {
       </ul>
 
       <footer className="footer">
-        Created by <span className="author">Harsh Maitray</span> ✨
+        Created by <span className="author">Harsh Maitray Ji</span> ✨
       </footer>
     </div>
   );
